@@ -1,4 +1,4 @@
-brlaser: Brother laser printer driver
+brlaser: Brother laser printer driver1
 =====================================
 
 brlaser is a CUPS driver for Brother laser printers.
